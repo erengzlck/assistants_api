@@ -242,8 +242,7 @@ def main():
 
 if __name__ == '__main__':
     init()
-    main() 
-    print(st.session_state.file_ids)
+    main()
 
 
 
